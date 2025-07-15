@@ -85,12 +85,18 @@ Since then, I’ve committed myself to deep, structured learning — not just pa
 
 ---
 
-### 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoktimTaye&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoktimTaye&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roktimtaye&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roktimtaye&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roktimtaye&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
