@@ -90,7 +90,7 @@ Since then, I’ve committed myself to deep, structured learning — not just pa
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roktimtaye&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roktimtaye&theme=radical" />
 </p>
 
 ---
