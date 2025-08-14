@@ -1,87 +1,76 @@
 <h1 align="center">Hi, I'm Roktim 👋</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot Specialist | AIML Learner | Assam, India 🇮🇳</h3>
+<h3 align="center">BCA CS Student | Java & Spring Boot Backend Developer | Microservices | AI/ML Explorer | Assam, India 🇮🇳</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a dedicated backend developer and BCA student with a unique journey — I shifted from a medical background to tech because I discovered my true passion lies in *logic, systems, and problem-solving*.
+I’m Roktim Taye, a BCA Computer Science student from Dibrugarh, Assam, passionate about building *clean, scalable, and efficient backend systems*.  
+I started my journey in the medical field, but discovered my passion for *logic, systems, and problem-solving*, which led me into tech.  
 
-Since then, I’ve committed myself to deep, structured learning — not just passing exams, but truly *understanding how systems work and building them* from scratch.
+Currently, I’m:
+- Sharpening my skills in *Java, Spring Boot, REST APIs, Microservices*
+- Exploring *AI/ML fundamentals* to integrate intelligent features into backend workflows
+- Part of a *specialized program at TIHAN, IIT Hyderabad* for hands-on learning
 
----
-
-### 🛠 Tech Stack & Tools
-
-- *Languages:* Java, Python, JavaScript (Basics), SQL  
-- *Frameworks:* Spring Boot, JUnit, Mockito  
-- *Databases:* MySQL  
-- *Tools:*  
-  - Version Control: Git & GitHub  
-  - API Testing: Postman  
-  - Build Tool: Maven  
-  - IDEs:  
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-    ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
-    ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)  
-- *Auth & Security:* JWT, Spring Security  
-- *Architecture:* REST APIs, Microservices (in progress)  
-- *Currently Exploring:* Docker, Kafka, FeignClient, Redis, Circuit Breaker  
+> I believe in learning by building — understanding concepts deeply, then applying them in real projects.
 
 ---
 
-### 🤖 AI & Machine Learning Journey
+## 🛠 Tech Stack
 
-- 🚀 Actively learning *Python for AI/ML fundamentals*
-- 🧠 Studying core ML concepts:  
-  - Supervised & Unsupervised Learning  
-  - Regression, Classification, Clustering  
-  - Decision Trees, Naive Bayes, KNN, SVM  
-- 📊 Practicing with libraries:  
-  - *NumPy, **Pandas, **Matplotlib, **Scikit-learn*  
-- 📚 Goal: Build AI-backed features for future backend projects  
-- 🤝 Interested in combining *Spring Boot backend with AI services*
+*Languages:* Java, Python, JavaScript (Basics), SQL  
+*Frameworks:* Spring Boot, JUnit, Mockito  
+*Databases:* MySQL  
+*Architecture:* REST APIs, Microservices (in progress)  
+*Security & Auth:* JWT, Spring Security  
+*Tools:* Git & GitHub, Postman, Maven, IntelliJ IDEA, PyCharm, WebStorm  
+*Currently Exploring:* Docker, Kafka, FeignClient, Redis, Circuit Breaker  
 
 ---
 
-### 🚧 What I’m Working On
+## 🤖 AI & Machine Learning Journey
 
-- 🔄 *Revising Core Java to Multithreading* for solid foundations  
-- 🧪 *Mastering JUnit & Mockito* for clean and testable code  
-- 🧩 *Microservices Project:* Working on a medicine/chemical app with full service separation — including Order, Inventory, Authentication, Product, and Notification  
-- 🔐 Building a *dedicated JWT Auth Service* using Spring Security  
-- 🧠 Learning system design fundamentals through practical project architecture  
-- 🤖 Building a base in ML to explore AI-backed API integrations  
+- Learning Python for AI/ML fundamentals
+- Studying ML algorithms: Regression, Classification, Clustering, KNN, Naive Bayes, SVM
+- Working with libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+- Goal: Build AI-powered features into Spring Boot applications
 
 ---
 
-### 📚 What I’ve Learned
+## 🚧 Current Work
 
-- ✅ Core Java: OOP, Inheritance, Polymorphism, Abstraction, Interfaces  
-- ✅ JDBC & Servlets: Learned before transitioning to Spring Boot  
-- ✅ Spring Boot: REST APIs, service layers, controllers, DTOs, exception handling  
-- ✅ JWT Authentication: Secure login and user role management  
-- ✅ Python Basics: Syntax, logic building, functions, loops, math module  
-- ✅ ML: Linear Regression, KNN, Naive Bayes (basics), Scikit-learn setup  
-- ✅ Version Control with Git & GitHub  
-- ✅ Clean code writing and revision strategy (stacked repetition method)
+- *Microservices Medicine/Chemical App* with separate services: Order, Inventory, Authentication, Product, Notifications  
+- Dedicated *JWT Auth Service* with Spring Security  
+- Practicing *JUnit & Mockito* for testable code  
+- Revisiting *Core Java (OOP → Multithreading)* for solid foundations
 
 ---
 
-### 🎯 My Goals
+## ✅ Skills Learned
 
-- 🔨 *Short-term:*  
-  - Build and deploy complete backend projects using Spring Boot  
-  - Complete Microservices Architecture hands-on  
-  - Explore integration of AI features in backend workflows  
-  - Master DSA with Python (for interview logic)  
+- Core Java (OOP, Inheritance, Polymorphism, Abstraction, Interfaces)  
+- JDBC & Servlets (before transitioning to Spring Boot)  
+- Spring Boot: REST APIs, Controllers, Services, DTOs, Exception Handling  
+- JWT Authentication & Role Management  
+- Python Basics + Intro to Machine Learning  
+- Version Control (Git/GitHub)  
+- Clean Code Practices & Revision Strategy (Stacked Repetition Method)
 
-- 🚀 *Long-term:*  
-  - Become a *job-ready backend/full stack developer by final year*  
-  - Learn system design + advanced distributed architecture  
-  - Build a learning platform for students with real-world feedback loops  
-  - Gain cloud skills (AWS/GCP) and containerization with Docker/Kubernetes  
-  - Deepen knowledge in AI/ML & real-time AI APIs for future use cases  
+---
+
+## 🎯 Goals
+
+*Short-term:*
+- Complete & deploy microservices project
+- Master Docker & Kafka
+- Explore AI integrations into backend
+
+*Long-term:*
+- Become a job-ready backend/full stack developer by final year
+- Gain cloud skills (AWS/GCP) & container orchestration (Kubernetes)
+- Build a learning platform for students with real-time feedback
+- Advance AI/ML skills for future-ready systems
 
 ---
 
@@ -101,13 +90,18 @@ Since then, I’ve committed myself to deep, structured learning — not just pa
 
 ---
 
-### 🧠 Philosophy
+## 🧠 Philosophy
 
-> "Learning is not a race. I focus on building understanding, one concept at a time — then I share and teach it to grow further."
+> "If you think you can, you can. If you think you can’t, you can’t achieve it. Always chase your goals — the brighter side is waiting at the finish line."
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/roktim-taye-86957437a)  
+- 💻 [GitHub](https://github.com/roktimtaye)  
+
+---
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 - 💻 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
