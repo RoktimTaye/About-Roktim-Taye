@@ -98,12 +98,7 @@ Currently, I’m:
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/roktim-taye-86957437a)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/roktim-taye-86957437a/)  
 - 💻 [GitHub](https://github.com/roktimtaye)  
-
----
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 💻 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
