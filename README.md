@@ -24,7 +24,7 @@ Currently, I’m:
 *Databases:* MySQL  
 *Architecture:* REST APIs, Microservices (in progress)  
 *Security & Auth:* JWT, Spring Security  
-*Tools:* Git & GitHub, Postman, Maven, IntelliJ IDEA, PyCharm, WebStorm  
+*Tools:* Git & GitHub, Postman, Maven, IntelliJ IDEA, PyCharm, WebStorm, supabase   
 *Currently Exploring:* Docker, Kafka, FeignClient, Redis, Circuit Breaker  
 
 ---
