@@ -81,7 +81,7 @@ Currently, I’m:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roktimtaye&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.vercel.app/api?user=roktimtaye&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
