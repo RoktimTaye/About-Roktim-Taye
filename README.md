@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roktim 👋</h1>
-<h3 align-center">BCA CS Student | Java & Spring Boot Backend Developer | Microservices | AI/ML Explorer | Assam, India 🇮🇳</h3>
+<h3 align="center">BCA CS Student | Java & Spring Boot Backend Developer | Microservices | AI/ML Explorer | Assam, India 🇮🇳</h3>
 
 ---
 
@@ -42,7 +42,7 @@ Currently, I’m:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -66,7 +66,7 @@ Currently, I’m:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
@@ -124,6 +124,10 @@ Currently, I’m:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roktimtaye&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/api?user=roktimtaye&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
