@@ -81,10 +81,6 @@ Currently, I’m:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=roktimtaye&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roktimtaye&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
