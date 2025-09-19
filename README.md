@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Roktim 👋</h1>
-<h3 align="center">BCA CS Student | Java & Spring Boot Backend Developer | Microservices | AI/ML Explorer | Assam, India 🇮🇳</h3>
+<h3 align-center">BCA CS Student | Java & Spring Boot Backend Developer | Microservices | AI/ML Explorer | Assam, India 🇮🇳</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m Roktim Taye, a BCA Computer Science student from Dibrugarh, Assam, passionate about building *clean, scalable, and efficient backend systems*.  
-I started my journey in the medical field, but discovered my passion for *logic, systems, and problem-solving*, which led me into tech.  
+I’m Roktim Taye, a BCA Computer Science student from Dibrugarh, Assam, passionate about building *clean, scalable, and efficient backend systems*.
+I started my journey in the medical field, but discovered my passion for *logic, systems, and problem-solving*, which led me into tech.
 
 Currently, I’m:
 - Sharpening my skills in *Java, Spring Boot, REST APIs, Microservices*
@@ -17,15 +17,61 @@ Currently, I’m:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages and Tools
 
-*Languages:* Java, Python, JavaScript (Basics), SQL  
-*Frameworks:* Spring Boot, JUnit, Mockito  
-*Databases:* MySQL  
-*Architecture:* REST APIs, Microservices (in progress)  
-*Security & Auth:* JWT, Spring Security  
-*Tools:* Git & GitHub, Postman, Maven, IntelliJ IDEA, PyCharm, WebStorm, supabase   
-*Currently Exploring:* Docker, Kafka, FeignClient, Redis, Circuit Breaker  
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://jwt.io" target="_blank" rel="noreferrer">
+    <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="idea" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
+  </a>
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -40,21 +86,21 @@ Currently, I’m:
 
 ## 🚧 Current Work
 
-- *Microservices Medicine/Chemical App* with separate services: Order, Inventory, Authentication, Product, Notifications  
-- Dedicated *JWT Auth Service* with Spring Security  
-- Practicing *JUnit & Mockito* for testable code  
+- *Microservices Medicine/Chemical App* with separate services: Order, Inventory, Authentication, Product, Notifications
+- Dedicated *JWT Auth Service* with Spring Security
+- Practicing *JUnit & Mockito* for testable code
 - Revisiting *Core Java (OOP → Multithreading)* for solid foundations
 
 ---
 
 ## ✅ Skills Learned
 
-- Core Java (OOP, Inheritance, Polymorphism, Abstraction, Interfaces)  
-- JDBC & Servlets (before transitioning to Spring Boot)  
-- Spring Boot: REST APIs, Controllers, Services, DTOs, Exception Handling  
-- JWT Authentication & Role Management  
-- Python Basics + Intro to Machine Learning  
-- Version Control (Git/GitHub)  
+- Core Java (OOP, Inheritance, Polymorphism, Abstraction, Interfaces)
+- JDBC & Servlets (before transitioning to Spring Boot)
+- Spring Boot: REST APIs, Controllers, Services, DTOs, Exception Handling
+- JWT Authentication & Role Management
+- Python Basics + Intro to Machine Learning
+- Version Control (Git/GitHub)
 - Clean Code Practices & Revision Strategy (Stacked Repetition Method)
 
 ---
@@ -94,7 +140,7 @@ Currently, I’m:
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/roktim-taye-86957437a/)  
-- 💻 [GitHub](https://github.com/roktimtaye)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/roktim-taye-86957437a/)
+- 💻 [GitHub](https://github.com/roktimtaye)
 
 ---
